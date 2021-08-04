@@ -22,7 +22,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "abbandonare": [
@@ -197,7 +197,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile"
     }
   ],
   "abitazione": [
@@ -246,7 +246,7 @@
     {
       "cat": "AD",
       "features": "v.in- tr.",
-      "features_string": "vedi in- tr"
+      "features_string": "verbo in- tr"
     }
   ],
   "aborto": [
@@ -365,7 +365,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "acceleratore": [
@@ -400,7 +400,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "accenno": [
@@ -540,7 +540,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "accompagnare": [
@@ -554,7 +554,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "accontentare": [
@@ -603,14 +603,14 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "accudire": [
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "accumulare": [
@@ -722,7 +722,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "acquisto": [
@@ -991,7 +991,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "affamare": [
@@ -1178,7 +1178,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "affollare": [
@@ -1192,7 +1192,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "affresco": [
@@ -1617,7 +1617,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "allarmare": [
@@ -1848,7 +1848,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "alternativa": [
@@ -2420,7 +2420,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "anniversario": [
@@ -2847,7 +2847,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "appiglio": [
@@ -2882,7 +2882,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "appoggio": [
@@ -3013,7 +3013,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "apriscatole": [
@@ -3188,7 +3188,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "argomentazione": [
@@ -3347,14 +3347,14 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "arrivare": [
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.inv.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile invariabile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile invariabile"
     }
   ],
   "arrivo": [
@@ -3375,7 +3375,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "arte": [
@@ -3515,7 +3515,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "asciutto": [
@@ -3592,7 +3592,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "aspetto": [
@@ -3613,7 +3613,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "aspira-": [
@@ -3788,7 +3788,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "associare": [
@@ -3837,7 +3837,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "assorbente": [
@@ -4019,7 +4019,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "attacco": [
@@ -4047,7 +4047,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "attenere": [
@@ -4103,7 +4103,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "attesa": [
@@ -4278,7 +4278,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "augurio": [
@@ -4299,7 +4299,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "aumento": [
@@ -4509,7 +4509,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "avanzato": [
@@ -4892,7 +4892,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "ballerina": [
@@ -5214,7 +5214,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "batteria": [
@@ -5737,7 +5737,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "biscia": [
@@ -5868,7 +5868,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "bocciatura": [
@@ -6335,7 +6335,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "bronzo": [
@@ -6349,7 +6349,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "bruciato": [
@@ -6622,7 +6622,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "cabina": [
@@ -6685,7 +6685,7 @@
     {
       "cat": "FO",
       "features": "v.in- tr., s.m.",
-      "features_string": "vedi in- tr, sostantivo maschile"
+      "features_string": "verbo in- tr, sostantivo maschile"
     }
   ],
   "caduta": [
@@ -6720,7 +6720,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "cagliaritano": [
@@ -6762,7 +6762,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "calcagno": [
@@ -6776,7 +6776,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "calcia-": [
@@ -6923,7 +6923,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "calzatura": [
@@ -6972,7 +6972,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "cambio": [
@@ -7341,7 +7341,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "cantautore": [
@@ -8200,7 +8200,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "cavaliere": [
@@ -8324,7 +8324,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "celare": [
@@ -8597,7 +8597,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "cesso": [
@@ -8737,7 +8737,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "chiesa": [
@@ -8849,7 +8849,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "chiunque": [
@@ -9622,7 +9622,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "colata": [
@@ -9748,7 +9748,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "collegio": [
@@ -10021,7 +10021,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "combattimento": [
@@ -10035,7 +10035,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "combinazione": [
@@ -10077,7 +10077,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "comitato": [
@@ -10140,7 +10140,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "commissariato": [
@@ -10557,7 +10557,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "comunicazione": [
@@ -10704,7 +10704,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "concorrente": [
@@ -10809,7 +10809,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "condut-": [
@@ -10837,7 +10837,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "conferma": [
@@ -10907,7 +10907,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "confi-": [
@@ -10984,7 +10984,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "congelatore": [
@@ -11138,7 +11138,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "consenso": [
@@ -11152,7 +11152,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "conservare": [
@@ -11369,7 +11369,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "contatore": [
@@ -11502,7 +11502,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "continua-": [
@@ -11586,7 +11586,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "contrasto": [
@@ -11663,7 +11663,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "convenzione": [
@@ -11999,7 +11999,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "correttamente": [
@@ -12069,7 +12069,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "corruzione": [
@@ -12405,7 +12405,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile"
     }
   ],
   "credibile": [
@@ -12468,7 +12468,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "crescita": [
@@ -12797,7 +12797,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "cuoco": [
@@ -12972,7 +12972,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "data": [
@@ -13056,7 +13056,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "decina": [
@@ -13497,7 +13497,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "de-": [
@@ -13684,7 +13684,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "deviazione": [
@@ -13724,7 +13724,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "dialogo": [
@@ -14018,7 +14018,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "dimo-": [
@@ -14130,7 +14130,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "diretta": [
@@ -14228,7 +14228,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "discepolo": [
@@ -14305,7 +14305,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "disegnare": [
@@ -14403,7 +14403,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "disperato": [
@@ -14984,7 +14984,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "domani": [
@@ -15026,7 +15026,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "dominio": [
@@ -15047,14 +15047,14 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "dondolare": [
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "donna": [
@@ -15281,7 +15281,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "dublinese": [
@@ -15846,7 +15846,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "emergenza": [
@@ -16217,7 +16217,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "esagerato": [
@@ -16530,7 +16530,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "esplorare": [
@@ -16841,14 +16841,14 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "evaporare": [
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "evasione": [
@@ -17072,7 +17072,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "fallito": [
@@ -17219,7 +17219,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "farfalla": [
@@ -17702,7 +17702,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "festival": [
@@ -17765,7 +17765,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "fiato": [
@@ -17793,7 +17793,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "fiction": [
@@ -17905,7 +17905,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "figurina": [
@@ -17933,7 +17933,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "filastrocca": [
@@ -18003,7 +18003,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "filtro": [
@@ -18120,7 +18120,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "finito": [
@@ -18449,7 +18449,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "fondo": [
@@ -18701,7 +18701,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "fosforescente": [
@@ -18771,7 +18771,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "foulard": [
@@ -18890,7 +18890,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "frenetico": [
@@ -19002,7 +19002,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "frumento": [
@@ -19065,7 +19065,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "fulmine": [
@@ -19079,7 +19079,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile"
     }
   ],
   "fumetto": [
@@ -19352,7 +19352,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "garanzia": [
@@ -19870,7 +19870,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "giocatore": [
@@ -20010,7 +20010,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "giravite": [
@@ -20080,7 +20080,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "giudice": [
@@ -20115,7 +20115,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "giungla": [
@@ -20255,7 +20255,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "gola": [
@@ -20297,7 +20297,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "gonfio": [
@@ -20500,7 +20500,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "grattugiato": [
@@ -20570,7 +20570,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "grido": [
@@ -20696,7 +20696,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "guardaroba": [
@@ -20717,7 +20717,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "guarnizione": [
@@ -21030,7 +21030,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "illuminare": [
@@ -21114,7 +21114,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "imbianchino": [
@@ -21219,7 +21219,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "immigrato": [
@@ -21646,14 +21646,14 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "incassare": [
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "incasso": [
@@ -21779,7 +21779,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "incompleto": [
@@ -21875,7 +21875,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "incrocio": [
@@ -21903,14 +21903,14 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "indagare": [
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "indagine": [
@@ -22372,7 +22372,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "infuso": [
@@ -22414,7 +22414,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ingenuo": [
@@ -22463,14 +22463,14 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ingrassare": [
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ingrediente": [
@@ -22512,7 +22512,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "iniziativa": [
@@ -22757,7 +22757,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "installare": [
@@ -22778,7 +22778,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "insulto": [
@@ -22932,7 +22932,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "interessato": [
@@ -23114,7 +23114,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "intimita\u0300": [
@@ -24066,7 +24066,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "lavorativo": [
@@ -24183,7 +24183,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "legato": [
@@ -25696,7 +25696,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "manifestazione": [
@@ -25848,7 +25848,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "marco": [
@@ -26205,7 +26205,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "maturita\u0300": [
@@ -26334,7 +26334,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "mediterraneo": [
@@ -26418,7 +26418,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "mendicante": [
@@ -26488,7 +26488,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "mento": [
@@ -26530,7 +26530,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "meraviglioso": [
@@ -26621,7 +26621,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "merito": [
@@ -26794,7 +26794,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "mezzanotte": [
@@ -26890,7 +26890,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "migliore": [
@@ -27093,7 +27093,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "mischiare": [
@@ -27177,7 +27177,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "misura-": [
@@ -27373,7 +27373,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "mollusco": [
@@ -27499,7 +27499,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "monte": [
@@ -27791,7 +27791,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "mulino": [
@@ -27861,7 +27861,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "murare": [
@@ -27980,7 +27980,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "mutazione": [
@@ -28295,7 +28295,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "negare": [
@@ -28449,7 +28449,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "news": [
@@ -28869,7 +28869,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "nuoto": [
@@ -29119,7 +29119,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "odore": [
@@ -29420,7 +29420,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "operativo": [
@@ -29908,7 +29908,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "oscuro": [
@@ -29957,7 +29957,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "osservazione": [
@@ -30167,7 +30167,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "ovvio": [
@@ -30907,7 +30907,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pareggio": [
@@ -30989,7 +30989,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "parmigiano": [
@@ -31052,7 +31052,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "partecipazione": [
@@ -31164,7 +31164,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pasqua": [
@@ -31192,7 +31192,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "passata": [
@@ -31227,7 +31227,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "passeggiata": [
@@ -31577,7 +31577,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "peg-": [
@@ -31689,7 +31689,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "penisola": [
@@ -31717,7 +31717,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "pensiero": [
@@ -31864,7 +31864,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "perdita": [
@@ -31878,7 +31878,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "perdono": [
@@ -32163,7 +32163,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pesca": [
@@ -32182,7 +32182,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pescatore": [
@@ -32439,7 +32439,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile"
     }
   ],
   "piano": [
@@ -32554,7 +32554,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "piccino": [
@@ -32624,7 +32624,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pieghevole": [
@@ -32694,7 +32694,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pigna": [
@@ -32967,7 +32967,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pizzo": [
@@ -33086,7 +33086,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "poi": [
@@ -33406,7 +33406,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "porno": [
@@ -33420,7 +33420,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "porta": [
@@ -33511,7 +33511,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "portata": [
@@ -33588,7 +33588,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "posata": [
@@ -33742,7 +33742,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     },
     {
       "cat": "FO",
@@ -33817,7 +33817,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "pratico": [
@@ -33873,7 +33873,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "precisamente": [
@@ -34006,7 +34006,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "premessa": [
@@ -34744,7 +34744,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "profumato": [
@@ -35008,7 +35008,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "prospettiva": [
@@ -35064,7 +35064,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "protetto": [
@@ -35155,7 +35155,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "provvedimento": [
@@ -35421,7 +35421,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "puntata": [
@@ -36597,7 +36597,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "reggimento": [
@@ -36688,7 +36688,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "regno": [
@@ -36770,7 +36770,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "remo": [
@@ -36931,7 +36931,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "respirazione": [
@@ -36966,7 +36966,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "restituire": [
@@ -37057,7 +37057,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "riassumere": [
@@ -37127,7 +37127,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ricambio": [
@@ -37274,7 +37274,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ricompensa": [
@@ -37295,7 +37295,7 @@
     {
       "cat": "AD",
       "features": "v.pronom.intr. e tr.",
-      "features_string": "vedi pronom intransitivo e tr"
+      "features_string": "verbo pronom intransitivo e tr"
     }
   ],
   "riconoscere": [
@@ -37379,7 +37379,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ricovero": [
@@ -37400,14 +37400,14 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ridere": [
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile"
     }
   ],
   "ridicolo": [
@@ -37477,21 +37477,21 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rifinire": [
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rifiutare": [
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rifiu-": [
@@ -37519,7 +37519,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "riflettore": [
@@ -37603,7 +37603,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "riguardo": [
@@ -37617,7 +37617,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rilassare": [
@@ -37652,7 +37652,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rilievo": [
@@ -37694,7 +37694,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "rimborsare": [
@@ -37708,7 +37708,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "rime-": [
@@ -37722,7 +37722,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rimodernare": [
@@ -37785,7 +37785,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rinchiudere": [
@@ -37841,7 +37841,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ringraziare": [
@@ -37890,7 +37890,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "rinvenire": [
@@ -37932,7 +37932,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "riparo": [
@@ -38035,7 +38035,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ripresa": [
@@ -38070,7 +38070,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ripulire": [
@@ -38091,7 +38091,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "risarcimento": [
@@ -38119,7 +38119,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "riscattare": [
@@ -38196,7 +38196,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "riserva": [
@@ -38315,7 +38315,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "risposta": [
@@ -38357,7 +38357,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "risultato": [
@@ -38392,7 +38392,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "ritardo": [
@@ -38448,14 +38448,14 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ritornare": [
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "ritornello": [
@@ -38476,7 +38476,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "ritratto": [
@@ -38735,7 +38735,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "romagnolo": [
@@ -38784,7 +38784,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rondine": [
@@ -38798,7 +38798,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "ronzio": [
@@ -38896,7 +38896,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "rotondo": [
@@ -38959,7 +38959,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "rovo": [
@@ -39078,7 +39078,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "ruscello": [
@@ -39099,7 +39099,7 @@
     {
       "cat": "AD",
       "features": "v.in- tr.",
-      "features_string": "vedi in- tr"
+      "features_string": "verbo in- tr"
     }
   ],
   "russo": [
@@ -39120,7 +39120,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "rutto": [
@@ -39183,7 +39183,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sacrificio": [
@@ -39321,7 +39321,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "salita": [
@@ -39377,7 +39377,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "saltellare": [
@@ -39510,7 +39510,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sanguisuga": [
@@ -39566,7 +39566,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     },
     {
       "cat": "AU",
@@ -39662,7 +39662,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sbadiglio": [
@@ -39676,7 +39676,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sbagliato": [
@@ -39704,7 +39704,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sbarra": [
@@ -39725,7 +39725,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sberla": [
@@ -39746,28 +39746,28 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sbigottire": [
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sbloccare": [
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sboccare": [
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sbocciare": [
@@ -39837,7 +39837,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "scacchiera": [
@@ -40138,7 +40138,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "scatto": [
@@ -40208,7 +40208,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sceneggiatura": [
@@ -40355,7 +40355,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "schizzo": [
@@ -40474,14 +40474,14 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "scioperare": [
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sciopero": [
@@ -40719,7 +40719,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "scoperta": [
@@ -40775,7 +40775,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "scorretto": [
@@ -40831,7 +40831,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "scricchiolare": [
@@ -40950,7 +40950,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "scuro": [
@@ -40971,7 +40971,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sdebitarsi": [
@@ -41025,7 +41025,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "seccatura": [
@@ -41107,7 +41107,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sedia": [
@@ -41259,7 +41259,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "seguito": [
@@ -41686,7 +41686,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "servizio": [
@@ -41903,14 +41903,14 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sfogare": [
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sfoglia": [
@@ -41945,14 +41945,14 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sfondare": [
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sfondo": [
@@ -41973,7 +41973,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sforzo": [
@@ -42001,7 +42001,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sgabello": [
@@ -42634,7 +42634,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "smisurato": [
@@ -42655,7 +42655,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "smorfia": [
@@ -42753,7 +42753,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "soddisfatto": [
@@ -42830,21 +42830,21 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "soffriggere": [
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "soffrire": [
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sofisticato": [
@@ -42912,7 +42912,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sogno": [
@@ -43073,7 +43073,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "somma": [
@@ -43087,7 +43087,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sondaggio": [
@@ -43269,7 +43269,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sorriso": [
@@ -43346,7 +43346,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sospetto": [
@@ -43365,7 +43365,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sospiro": [
@@ -43400,7 +43400,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sostegno": [
@@ -43519,7 +43519,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sottovalutare": [
@@ -43659,7 +43659,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sparecchiare": [
@@ -44084,7 +44084,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "spiare": [
@@ -44105,7 +44105,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "spicciolo": [
@@ -44189,7 +44189,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "spinta": [
@@ -44329,7 +44329,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sport": [
@@ -44357,7 +44357,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "sposato": [
@@ -44476,7 +44476,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "spuntino": [
@@ -44497,7 +44497,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sputo": [
@@ -44539,7 +44539,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "squisito": [
@@ -44574,7 +44574,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "stacco": [
@@ -44964,7 +44964,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "stop": [
@@ -45174,7 +45174,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "strillo": [
@@ -45195,7 +45195,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "striscia": [
@@ -45209,7 +45209,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "strofinaccio": [
@@ -45335,7 +45335,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "stupito": [
@@ -45461,7 +45461,7 @@
     {
       "cat": "AU",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "sudato": [
@@ -45601,7 +45601,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "suono": [
@@ -45706,7 +45706,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "susina": [
@@ -45734,7 +45734,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "svanire": [
@@ -45839,7 +45839,7 @@
     {
       "cat": "AD",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "svolgere": [
@@ -45909,7 +45909,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile"
     }
   ],
   "tag": [
@@ -45930,7 +45930,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "tagliatella": [
@@ -46413,7 +46413,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "tele-": [
@@ -46511,7 +46511,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "temperatura": [
@@ -46581,7 +46581,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "tenebra": [
@@ -46602,7 +46602,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "tenerezza": [
@@ -46714,7 +46714,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "termine": [
@@ -46924,7 +46924,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "testo": [
@@ -47118,7 +47118,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "tiro": [
@@ -47188,7 +47188,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "tocco": [
@@ -47321,7 +47321,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "torcia": [
@@ -47377,7 +47377,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "torneo": [
@@ -47790,7 +47790,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "trascinare": [
@@ -47804,7 +47804,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "trascrizione": [
@@ -47923,7 +47923,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "trattativa": [
@@ -48467,7 +48467,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "ufficiale": [
@@ -48780,7 +48780,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "urlo": [
@@ -48801,7 +48801,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "usare": [
@@ -48969,7 +48969,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "valido": [
@@ -49137,7 +49137,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "variazione": [
@@ -49207,7 +49207,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr., s.m.",
-      "features_string": "vedi transitivo e intr, sostantivo maschile"
+      "features_string": "verbo transitivo e intr, sostantivo maschile"
     }
   ],
   "vedova": [
@@ -49319,7 +49319,7 @@
     {
       "cat": "AD",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "vendere": [
@@ -49632,7 +49632,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "vestito": [
@@ -49693,7 +49693,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "viaggiatore": [
@@ -49728,7 +49728,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "vice": [
@@ -49854,7 +49854,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "vincitore": [
@@ -50106,7 +50106,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr., s.m.",
-      "features_string": "vedi intransitivo e tr, sostantivo maschile"
+      "features_string": "verbo intransitivo e tr, sostantivo maschile"
     }
   ],
   "vivo": [
@@ -50202,7 +50202,7 @@
     {
       "cat": "FO",
       "features": "v.intr. e tr.",
-      "features_string": "vedi intransitivo e tr"
+      "features_string": "verbo intransitivo e tr"
     }
   ],
   "volata": [
@@ -50244,7 +50244,7 @@
     {
       "cat": "AU",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "volo": [
@@ -50286,7 +50286,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "volto": [
@@ -50335,7 +50335,7 @@
     {
       "cat": "FO",
       "features": "v.tr. e intr.",
-      "features_string": "vedi transitivo e intr"
+      "features_string": "verbo transitivo e intr"
     }
   ],
   "votazione": [

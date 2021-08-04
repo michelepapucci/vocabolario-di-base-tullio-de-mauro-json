@@ -4,9 +4,9 @@ import re
 
 
 def main():
-    file = codecs.open("vocabolario di base.txt", 'r', 'utf-8')
+    file = codecs.open("sources/vocabolario di base.txt", 'r', 'utf-8')
     wordlist = {}
-    abbr = json.load(codecs.open('n_abbr.json', 'r', 'utf-8'))
+    abbr = json.load(codecs.open('sources/abbr.json', 'r', 'utf-8'))
     for line in file:
         text = line.split(',')
 
@@ -70,26 +70,8 @@ def main():
                 exp_features = exp_features[:-1]
             j['features_string'] = exp_features
 
-    with codecs.open("n_vdb.json", "w", "utf-8") as f:
+    with codecs.open("vocabolario_di_base/vdb.json", "w", "utf-8") as f:
         f.write(json.dumps(wordlist))
-
-
-def convert_abbr():
-    file = codecs.open("n_abbr.txt", 'r', 'utf-8')
-    doc = {}
-    for line in file:
-        text = line.split(' ')
-        abbr = text[0].strip()
-        descr = ''
-        for i in range(1, len(text)):
-            descr += text[i].strip() + " "
-        descr = descr.replace('\n', '')
-        descr = descr.replace('\r', '')
-        doc[abbr] = descr.strip()
-    j = json.dumps(doc)
-    file.close()
-    with codecs.open("n_abbr.json", 'w', 'utf-8') as f:
-        f.write(j)
 
 
 if __name__ == '__main__':
