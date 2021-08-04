@@ -3,54 +3,6 @@ import json
 import re
 
 
-def old_main():
-    file = codecs.open("vocabolario di base.txt", 'r', 'utf-8')
-    wordlist = {}
-    abbr = json.load(codecs.open('abbr.json', 'r', 'utf-8'))
-    for line in file:
-        text = line.split(',')
-
-        for word in text:
-            word = word.strip()
-            word = word.split('.')
-            word.pop()
-            features = ""
-            if len(word) > 0:
-                if word[0] not in abbr:
-                    w = word[0]
-                    w_space = w.split(' ')
-                    for i in range(1, len(w_space)):
-                        w_space[i] = w_space[i].replace(']', '')
-                        w_space[i] = w_space[i].replace(')', '')
-                        features += w_space[i] + " "
-                    w = w_space[0]
-                    w = re.sub(r"\d", '', w)
-                    word_features = {}
-
-                    if '(' in w:
-                        w = w.replace('(', '')
-                        word_features['cat'] = 'FO'
-                    elif '[' in w:
-                        w = w.replace('[', '')
-                        word_features['cat'] = 'AD'
-                    else:
-                        word_features['cat'] = 'AU'
-
-                    for i in range(1, len(word)):
-                        features += word[i] + " "
-                    features.strip()
-                    word_features['features'] = features
-                    if w in wordlist:
-                        wordlist[w].append(word_features)
-                    else:
-                        wordlist[w] = list()
-                        wordlist[w].append(word_features)
-                else:
-                    for k in word:
-                        wordlist[list(wordlist.keys())[-1]][-1]['features'] += k + " "
-
-
-# il trova stronzi: "features": ""
 def main():
     file = codecs.open("vocabolario di base.txt", 'r', 'utf-8')
     wordlist = {}
