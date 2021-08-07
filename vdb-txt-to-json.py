@@ -4,7 +4,7 @@ import re
 
 
 def main():
-    file = codecs.open("sources/vocabolario di base.txt", 'r', 'utf-8')
+    file = codecs.open("sources/vocabolario di base pulito.txt", 'r', 'utf-8')
     wordlist = {}
     abbr = json.load(codecs.open('sources/abbr.json', 'r', 'utf-8'))
     for line in file:
@@ -63,7 +63,15 @@ def main():
                         if y in abbr:
                             exp_features += abbr[y] + " "
                         else:
-                            exp_features += x + " "
+                            # add a space split to get stuff after "e". Ex: s.f. e m. with a . split you get:
+                            # [s] [f] [e m] I need to divide [e] and [m] with a space split.
+                            y = y.split(' ')
+                            for z in y:
+                                z = z.strip()
+                                if z in abbr:
+                                    exp_features += abbr[z] + " "
+                                elif z not in ['.', ',', ' ']:
+                                    exp_features += z + " "
                     exp_features = exp_features.strip() + ", "
             exp_features = exp_features.strip()
             if exp_features[-1] == ',':
@@ -72,6 +80,13 @@ def main():
 
     with codecs.open("vocabolario_di_base/vdb.json", "w", "utf-8") as f:
         f.write(json.dumps(wordlist))
+
+
+def clean_vdb_txt():
+    with codecs.open("sources/vocabolario di base.txt", "r", "utf-8") as f:
+        cleaned = re.sub(r"- ", '', f.read())
+        with codecs.open("sources/vocabolario di base pulito.txt", "w", "utf-8") as o:
+            o.write(cleaned)
 
 
 if __name__ == '__main__':
