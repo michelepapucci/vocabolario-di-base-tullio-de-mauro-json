@@ -6,6 +6,8 @@ import re
 def main():
     file = codecs.open("sources/vocabolario di base pulito.txt", 'r', 'utf-8')
     wordlist = {}
+    used_abbr = {}
+    abbr_not_found = {}
     abbr = json.load(codecs.open('sources/abbr.json', 'r', 'utf-8'))
     for line in file:
         text = line.split(',')
@@ -42,10 +44,10 @@ def main():
                         wordlist[w].append(word_features)
                 else:
                     if len(word) > 0:
+                        wordlist[list(wordlist.keys())[-1]][-1]['features'] += ", "
                         for k in word:
-                            wordlist[list(wordlist.keys())[-1]][-1]['features'] = \
-                                wordlist[list(wordlist.keys())[-1]][-1]['features'].strip()
-                            wordlist[list(wordlist.keys())[-1]][-1]['features'] += f", {k} "
+                            #wordlist[list(wordlist.keys())[-1]][-1]['features'] = wordlist[list(wordlist.keys())[-1]][-1]['features'].strip()
+                            wordlist[list(wordlist.keys())[-1]][-1]['features'] += f"{k} "
 
     for i in wordlist.keys():
         for j in wordlist[i]:
@@ -56,22 +58,27 @@ def main():
                 el = el.strip()
                 if el in abbr:
                     exp_features += abbr[el] + ", "
+                    used_abbr[el] = abbr[el]
                 else:
                     for x in el.split('.'):
                         x = x.strip()
                         y = x + "."
                         if y in abbr:
                             exp_features += abbr[y] + " "
+                            used_abbr[y] = abbr[y]
                         else:
-                            # add a space split to get stuff after "e". Ex: s.f. e m. with a . split you get:
-                            # [s] [f] [e m] I need to divide [e] and [m] with a space split.
                             y = y.split(' ')
                             for z in y:
                                 z = z.strip()
                                 if z in abbr:
                                     exp_features += abbr[z] + " "
+                                    used_abbr[z] = abbr[z]
                                 elif z not in ['.', ',', ' ']:
                                     exp_features += z + " "
+                                    if z in abbr_not_found:
+                                        abbr_not_found[z] = abbr_not_found[z] + 1
+                                    else:
+                                        abbr_not_found[z] = 0
                     exp_features = exp_features.strip() + ", "
             exp_features = exp_features.strip()
             if exp_features[-1] == ',':
@@ -80,6 +87,10 @@ def main():
 
     with codecs.open("vocabolario_di_base/vdb.json", "w", "utf-8") as f:
         f.write(json.dumps(wordlist))
+    with codecs.open("useful_data/used_abbr.json", "w", "utf-8") as g:
+        g.write(json.dumps(used_abbr))
+    with codecs.open("useful_data/not_found_abbr.json", "w", "utf-8") as h:
+        h.write(json.dumps(abbr_not_found))
 
 
 def clean_vdb_txt():
