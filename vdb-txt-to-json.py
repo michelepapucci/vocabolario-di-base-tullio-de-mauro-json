@@ -46,7 +46,6 @@ def main():
                     if len(word) > 0:
                         wordlist[list(wordlist.keys())[-1]][-1]['features'] += ", "
                         for k in word:
-                            #wordlist[list(wordlist.keys())[-1]][-1]['features'] = wordlist[list(wordlist.keys())[-1]][-1]['features'].strip()
                             wordlist[list(wordlist.keys())[-1]][-1]['features'] += f"{k} "
 
     for i in wordlist.keys():

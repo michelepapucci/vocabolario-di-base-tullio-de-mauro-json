@@ -1,0 +1,362 @@
+{
+  "s.": {
+    "string": "sostantivo",
+    "pos_ud": "NOUN",
+    "features_ud": ""
+  },
+  "f.": {
+    "string": "femminile",
+    "pos_ud": "",
+    "features_ud": "Gender=Fem"
+  },
+  "e": {
+    "string": "e",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "m.": {
+    "string": "maschile",
+    "pos_ud": "",
+    "features_ud": "Gender=Masc"
+  },
+  "inv.": {
+    "string": "invariabile",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "prep.": {
+    "string": "preposizione",
+    "pos_ud": "ADP",
+    "features_ud": ""
+  },
+  "p.pres.": {
+    "string": "participio presente",
+    "pos_ud": "VERB",
+    "features_ud": "VerbForm=Part|Tense=Pres"
+  },
+  "agg.": {
+    "string": "aggettivo",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "s.m.": {
+    "string": "sostantivo maschile",
+    "pos_ud": "NOUN",
+    "features_ud": "Gender=Masc"
+  },
+  "v.": {
+    "string": "verbo",
+    "pos_ud": "VERB",
+    "features_ud": ""
+  },
+  "intr.": {
+    "string": "intransitivo",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "tr.": {
+    "string": "transitivo",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "v.tr.": {
+    "string": "verbo transitivo",
+    "pos_ud": "VERB",
+    "features_ud": ""
+  },
+  "p.pass.": {
+    "string": "participio passato",
+    "pos_ud": "VERB",
+    "features_ud": "VerbForm=Part|Tense=Past"
+  },
+  "avv.": {
+    "string": "avverbio",
+    "pos_ud": "ADV",
+    "features_ud": ""
+  },
+  "inter.": {
+    "string": "interiezione",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "v.intr.": {
+    "string": "verbo intransitivo",
+    "pos_ud": "VERB",
+    "features_ud": ""
+  },
+  "s.f.inv.": {
+    "string": "sostantivo femminile invariabile",
+    "pos_ud": "NOUN",
+    "features_ud": "Gender=Fem"
+  },
+  "s.f.": {
+    "string": "sostantivo femminile",
+    "pos_ud": "NOUN",
+    "features_ud": "Gender=Fem"
+  },
+  "v.pronom.intr.": {
+    "string": "verbo pronominale intransitivo",
+    "pos_ud": "VERB",
+    "features_ud": ""
+  },
+  "cong.": {
+    "string": "congiunzione",
+    "pos_ud": "CCONJ",
+    "features_ud": ""
+  },
+  "s.m.inv.": {
+    "string": "sostantivo maschile invariabile",
+    "pos_ud": "NOUN",
+    "features_ud": "Gender=Masc"
+  },
+  "agg.indef.": {
+    "string": "aggettivo indefinito",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "pron.indef.m.": {
+    "string": "pronome indefinito maschile",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Ind|Gender=Masc"
+  },
+  "pron.": {
+    "string": "pronome",
+    "pos_ud": "PRON",
+    "features_ud": ""
+  },
+  "indef.": {
+    "string": "indefinito",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "pron.indef.": {
+    "string": "pronome indefinito",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Ind"
+  },
+  "poss.": {
+    "string": "possessivo",
+    "pos_ud": "",
+    "features_ud": "Poss=Yes"
+  },
+  "pron.indef.inv.": {
+    "string": "pronome indefinito invariabile",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Ind"
+  },
+  "agg.inv.": {
+    "string": "aggettivo invariabile",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "agg.indef.inv.": {
+    "string": "aggettivo indefinito invariabile",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "loc. di comando": {
+    "string": "locuzione di comando",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "personal.": {
+    "string": "personale",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "di": {
+    "string": "di",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "prima": {
+    "string": "prima",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "pers.": {
+    "string": "persona",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "pl.": {
+    "string": "plurale",
+    "pos_ud": "",
+    "features_ud": "Number=Plur"
+  },
+  "agg.num.ord.": {
+    "string": "aggettivo numerale ordinale",
+    "pos_ud": "ADJ",
+    "features_ud": "NumType=Ord"
+  },
+  "num.": {
+    "string": "numerale",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "card.": {
+    "string": "cardinale",
+    "pos_ud": "",
+    "features_ud": "NumType=Card"
+  },
+  "pron.rel.": {
+    "string": "pronome relativo",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Rel"
+  },
+  "interr.": {
+    "string": "interrogativo",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "pron.escl.": {
+    "string": "pronome esclamativo",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Exc"
+  },
+  "agg.interr.": {
+    "string": "aggettivo interrogativo",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "agg.escl.": {
+    "string": "aggettivo esclamativo",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "pron.rel.indef.": {
+    "string": "pronome relativo indefinito",
+    "pos_ud": "",
+    "features_ud": "PronType=Rel"
+  },
+  "pron.interr.": {
+    "string": "pronome interrogativo",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Int"
+  },
+  "pron.dimostr.": {
+    "string": "pronome dimostrativo",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Dem"
+  },
+  "s.f.pl.": {
+    "string": "sostantivo femminile plurale",
+    "pos_ud": "NOUN",
+    "features_ud": "Gender=Fem|Number=Plur"
+  },
+  "dimostr.": {
+    "string": "dimostrativo",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "p.": {
+    "string": "participio",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "pass.": {
+    "string": "passato",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "sing.": {
+    "string": "singolare",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "lat.": {
+    "string": "latino",
+    "pos_ud": "",
+    "features_ud": "Foreign=Yes"
+  },
+  "s.m.pl.": {
+    "string": "sostantivo maschile plurale",
+    "pos_ud": "NOUN",
+    "features_ud": "Gender=Masc|Number=Plur"
+  },
+  "terza": {
+    "string": "terza",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "agg.num.pl.": {
+    "string": "aggettivo numerale plurale",
+    "pos_ud": "ADJ",
+    "features_ud": "NumType=Gen|Number=Plur"
+  },
+  "art.": {
+    "string": "articolo",
+    "pos_ud": "DET",
+    "features_ud": ""
+  },
+  "det.": {
+    "string": "determinativo",
+    "pos_ud": "",
+    "features_ud": "Definite=Def"
+  },
+  "agg.f.": {
+    "string": "aggettivo femminile",
+    "pos_ud": "ADJ",
+    "features_ud": "Gender=Fem"
+  },
+  "agg.dimostr.": {
+    "string": "aggettivo dimostrativo",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "pron.dimostr.m.": {
+    "string": "pronome dimostrativo maschile",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Dem|Gender=Masc"
+  },
+  "agg.compar.inv.": {
+    "string": "aggettivo comparativo invariabile",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "pron.personal.": {
+    "string": "pronome personale",
+    "pos_ud": "PRON",
+    "features_ud": "PronType=Prs"
+  },
+  "agg.poss.": {
+    "string": "aggettivo possessivo",
+    "pos_ud": "ADJ",
+    "features_ud": "Poss=Yes"
+  },
+  "agg.rel.": {
+    "string": "aggettivo relativo",
+    "pos_ud": "ADJ",
+    "features_ud": ""
+  },
+  "pronom.": {
+    "string": "pronominale",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "sigla": {
+    "string": "sigla",
+    "pos_ud": "NOUN",
+    "features_ud": "Abbr=Yes"
+  },
+  "seconda": {
+    "string": "seconda",
+    "pos_ud": "",
+    "features_ud": ""
+  },
+  "indet.": {
+    "string": "indeterminativo",
+    "pos_ud": "",
+    "features_ud": "Definite=Ind"
+  },
+  "agg.num.card.": {
+    "string": "aggettivo numerale cardinale",
+    "pos_ud": "ADJ",
+    "features_ud": "NumType=Card"
+  },
+  "simb.": {
+    "string": "simbolo",
+    "pos_ud": "SYM",
+    "features_ud": ""
+  }
+}
